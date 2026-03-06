@@ -1,0 +1,26 @@
+{
+    "root": "./",
+    "structure": {
+        "readmeFile": "README.md",
+        "summaryFile": "SUMMARY.md"
+    },
+    "title": "C# & ASP.NET Core Complete Learning Suite",
+    "description": "A comprehensive three-part learning resource covering C# fundamentals, ASP.NET Core development, and complete workbook exercises",
+    "author": "Learning Resources",
+    "links": {
+        "sidebar": {}
+    },
+    "plugins": [
+        "expandable-chapters",
+        "back-to-top-button",
+        "search",
+        "tbfmd"
+    ],
+    "pluginsConfig": {
+        "tbfmd": {
+            "options": {
+                "section": true
+            }
+        }
+    }
+}
