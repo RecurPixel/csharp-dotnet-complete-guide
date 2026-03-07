@@ -42,10 +42,10 @@
   * [Problems Index (START HERE)](workbook/PROBLEMS-INDEX.md) - 268 problems by difficulty
   * [Workbook Guide](workbook/WORKBOOK-README.md) - How to use the workbook
   * **Learning Phases**
-    * [Phase 1: Beginner (38 problems)](workbook/phase1-beginner.md)
-    * [Phase 2: Intermediate (70 problems)](workbook/phase2-intermediate.md)
-    * [Phase 3: Advanced (67 problems)](workbook/phase3-advanced.md)
-    * [Phase 4: Expert (21 problems)](workbook/phase4-expert.md)
+    * [Phase 1: Beginner (28 problems)](workbook/05-phase1-beginner.md)
+    * [Phase 2: Intermediate (66 problems)](workbook/06-phase2-intermediate.md)
+    * [Phase 3: Advanced (52 problems)](workbook/07-phase3-advanced.md)
+    * [Phase 4: Expert (10 problems)](workbook/08-phase4-expert.md)
   * **Interview Preparation**
     * [String Algorithms (12 problems)](workbook/interview-track-A-strings.md)
     * [Array Algorithms (13 problems)](workbook/interview-track-B-arrays.md)
@@ -53,3 +53,19 @@
   * [Quick Reference](workbook/02-quick-reference.md)
   * [Troubleshooting Guide](workbook/03-troubleshooting-guide.md)
   * [Resources & Next Steps](workbook/04-resources-next-steps.md)
+
+## Book 4: Advanced Guides & References
+
+* [Advanced Guides](guides/)
+  * [Azure Fundamentals](guides/guide-azure-fundamentals.md)
+  * [BenchmarkDotNet & Performance](guides/guide-benchmarkdotnet-performance.md)
+  * [Caching & Redis Patterns](guides/guide-caching-redis-patterns.md)
+  * [Clean Architecture](guides/guide-clean-architecture.md)
+  * [Dapper Micro-ORM](guides/guide-dapper-micro-orm.md)
+  * [Database Design & Indexing](guides/guide-database-design-indexing-optimization.md)
+  * [Docker & CI/CD Pipelines](guides/guide-docker-cicd-pipelines.md)
+  * [Git & GitHub Workflow](guides/guide-git-github-workflow.md)
+  * [Logging, Monitoring & Debugging](guides/guide-logging-monitoring-debugging.md)
+  * [Message Queues & Event-Driven Architecture](guides/guide-message-queues-event-driven.md)
+  * [SOLID & Design Patterns](guides/guide-solid-design-patterns.md)
+  * [SQL Server & T-SQL](guides/guide-sql-server-tsql.md)
