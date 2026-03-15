@@ -10,7 +10,7 @@ This suite contains four integrated books designed to take you from C# fundament
 A progressive guide covering core C# language features, from basic data types to advanced concurrency patterns.
 - Covers essential language features and concepts
 - Progressive difficulty from beginner to intermediate
-- [Start C# Book →](csharp/SUMMARY.md)
+- [Start C# Book →](csharp/guide1-fundamentals-datatypes.md)
 
 ### 2. **ASP.NET Core Development**
 Complete guide to building modern web applications with ASP.NET Core framework.
@@ -18,7 +18,7 @@ Complete guide to building modern web applications with ASP.NET Core framework.
 - Routing, controllers, and middleware
 - Authentication, authorization, and security
 - Testing and error handling
-- [Start ASP.NET Core Book →](aspnetcore/SUMMARY.md)
+- [Start ASP.NET Core Book →](aspnetcore/Guide-Quick-Reference-Cards.md)
 
 ### 3. **Complete Workbook**
 Hands-on practicum with exercises, interview preparation tracks, and structured learning phases.
@@ -26,7 +26,7 @@ Hands-on practicum with exercises, interview preparation tracks, and structured 
 - Interview preparation tracks
 - Phased learning progression
 - Troubleshooting guides
-- [Start Workbook →](workbook/SUMMARY.md)
+- [Start Workbook →](workbook/PROBLEMS-INDEX.md)
 
 ### 4. **Advanced Guides & References**
 Professional reference materials for enterprise development, DevOps, and architectural patterns.
@@ -35,7 +35,7 @@ Professional reference materials for enterprise development, DevOps, and archite
 - Database design and optimization
 - Performance tuning and caching
 - Logging, monitoring, and debugging
-- [Start Advanced Guides →](guides/SUMMARY.md)
+- [Start Advanced Guides →](guides/guide-azure-fundamentals.md)
 
 ## 🚀 How to Use This Suite
 

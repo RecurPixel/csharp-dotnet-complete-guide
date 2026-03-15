@@ -4,7 +4,7 @@
 
 ## Book 1: C# Fundamentals
 
-* [C# Fundamentals](csharp/)
+* [C# Fundamentals](csharp/guide1-fundamentals-datatypes.md)
   * [1. Fundamentals & Data Types](csharp/guide1-fundamentals-datatypes.md)
   * [2. Control Flow](csharp/guide2-control-flow.md)
   * [3. Object-Oriented Programming](csharp/guide3-object-oriented-programming.md)
@@ -22,7 +22,7 @@
 
 ## Book 2: ASP.NET Core Development
 
-* [ASP.NET Core](aspnetcore/)
+* [ASP.NET Core](aspnetcore/Guide-Quick-Reference-Cards.md)
   * [Quick Reference Cards](aspnetcore/Guide-Quick-Reference-Cards.md)
   * [1. Project Structure & Fundamentals](aspnetcore/guide1-Fundamentals-Project-Structure.md)
   * [2. Configuration & Dependency Injection](aspnetcore/guide2-Configuration-DependencyInjection.md)
@@ -38,7 +38,7 @@
 
 ## Book 3: Complete Workbook
 
-* [Complete Workbook](workbook/)
+* [Complete Workbook](workbook/PROBLEMS-INDEX.md)
   * [Problems Index (START HERE)](workbook/PROBLEMS-INDEX.md) - 268 problems by difficulty
   * [Workbook Guide](workbook/WORKBOOK-README.md) - How to use the workbook
   * **Learning Phases**
@@ -56,7 +56,7 @@
 
 ## Book 4: Advanced Guides & References
 
-* [Advanced Guides](guides/)
+* [Advanced Guides](guides/guide-azure-fundamentals.md)
   * [Azure Fundamentals](guides/guide-azure-fundamentals.md)
   * [BenchmarkDotNet & Performance](guides/guide-benchmarkdotnet-performance.md)
   * [Caching & Redis Patterns](guides/guide-caching-redis-patterns.md)
