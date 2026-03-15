@@ -19,6 +19,16 @@
   * [12. Collections](csharp/guide12-collections.md)
   * [13. Attributes & Reflection](csharp/guide13-Attributes-Reflection.md)
   * [14. Async, Threading & Concurrency](csharp/guide14-Async-Threading-Concurrency.md)
+  * [15. Cryptography & Secure Coding](csharp/guide15-cryptography-secure-coding.md)
+  * [16. Data Conversion & Parsing Cookbook](csharp/guide16-data-conversion-parsing-cookbook.md)
+  * [17. Serialization & Data Interchange](csharp/guide17-serialization-data-interchange.md)
+  * [18. Data Processing Patterns](csharp/guide18-data-processing-patterns.md)
+  * [19. Advanced Strings & Text Processing](csharp/guide19-advanced-strings-text-processing.md)
+  * [20. DSA & Coding Interview Cheatsheet](csharp/guide20-dsa-coding-interview-cheatsheet.md)
+  * [21. Algorithm Templates in C#](csharp/guide21-algorithm-templates-csharp.md)
+  * [22. Networking & Resilient I/O](csharp/guide22-networking-resilient-io.md)
+  * [23. Unit Testing for Core C#](csharp/guide23-unit-testing-core-csharp.md)
+  * [24. Performance & Diagnostics Playbook](csharp/guide24-performance-diagnostics-playbook.md)
 
 ## Book 2: ASP.NET Core Development
 

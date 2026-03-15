@@ -47,3 +47,33 @@ A comprehensive guide to C# language fundamentals, progressing from basic concep
 
 14. [Async, Threading & Concurrency](guide14-Async-Threading-Concurrency.md)
     - Asynchronous programming, tasks, and parallel operations
+
+15. [Cryptography & Secure Coding](guide15-cryptography-secure-coding.md)
+   - Hashing, encryption, signing, and secure coding patterns
+
+16. [Data Conversion & Parsing Cookbook](guide16-data-conversion-parsing-cookbook.md)
+   - Practical conversion recipes for strings, numbers, dates, bytes, and enums
+
+17. [Serialization & Data Interchange](guide17-serialization-data-interchange.md)
+   - JSON, CSV, XML, DTO design, and contract versioning patterns
+
+18. [Data Processing Patterns](guide18-data-processing-patterns.md)
+   - Batch, streaming, pipeline, and resilient data workflows
+
+19. [Advanced Strings & Text Processing](guide19-advanced-strings-text-processing.md)
+   - Unicode-safe processing, parsing, regex, and performance-focused text handling
+
+20. [DSA & Coding Interview Cheatsheet](guide20-dsa-coding-interview-cheatsheet.md)
+   - Pattern mapping, templates, complexity tables, and interview checklists
+
+21. [Algorithm Templates in C#](guide21-algorithm-templates-csharp.md)
+   - Reusable templates for search, graph, heap, and dynamic programming problems
+
+22. [Networking & Resilient I/O](guide22-networking-resilient-io.md)
+   - HttpClient patterns, retries, cancellation, and resilient API communication
+
+23. [Unit Testing for Core C#](guide23-unit-testing-core-csharp.md)
+   - xUnit fundamentals, async testing, test data patterns, and maintainable tests
+
+24. [Performance & Diagnostics Playbook](guide24-performance-diagnostics-playbook.md)
+   - Benchmarking, profiling, allocation analysis, and optimization workflow
