@@ -13,22 +13,22 @@ Your workbook has been reorganized for clarity and progression. Here's the new s
 
 **2. By Difficulty Level**
 
-- **BEGINNER** (38 problems) → [phase1-beginner.md](phase1-beginner.md)
+- **BEGINNER** (38 problems) → [05-phase1-beginner.md](05-phase1-beginner.md)
   - Foundation fundamentals
   - Variables, operators, control flow, simple loops
   - Recommended: 1-2 weeks for beginners
 
-- **INTERMEDIATE** (70 problems) → [phase2-intermediate.md](phase2-intermediate.md) 
+- **INTERMEDIATE** (70 problems) → [06-phase2-intermediate.md](06-phase2-intermediate.md) 
   - Collections, OOP basics, patterns
   - Arrays, Lists, Dictionaries, Classes
   - Recommended: 2-3 weeks
 
-- **ADVANCED** (67 problems) → [phase3-advanced.md](phase3-advanced.md)
+- **ADVANCED** (67 problems) → [07-phase3-advanced.md](07-phase3-advanced.md)
   - Generics, LINQ, design patterns
   - Advanced data structures, delegates, events
   - Recommended: 3-4 weeks
 
-- **EXPERT** (21 problems)+ Interview Tracks → [phase4-expert.md](phase4-expert.md)
+- **EXPERT** (21 problems)+ Interview Tracks → [08-phase4-expert.md](08-phase4-expert.md)
   - Concurrency, async/await, system design
   - Complex algorithms
   - Recommended: 2-3 weeks

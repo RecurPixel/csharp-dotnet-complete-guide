@@ -44,6 +44,12 @@ Advanced reference guides for professional .NET development covering DevOps, arc
 * [Message Queues & Event-Driven Architecture](guide-message-queues-event-driven.md)
   - Asynchronous messaging, Service Bus, event sourcing, saga patterns
 
+* [gRPC in .NET](guide-grpc-dotnet.md)
+  - High-performance RPC, protobuf, streaming
+
+* [SignalR & Real-Time Communication](guide-signalr-realtime.md)
+  - WebSockets, real-time updates, hubs
+
 ### Development Tools & Workflows
 
 * [Git & GitHub Workflow](guide-git-github-workflow.md)
@@ -51,6 +57,19 @@ Advanced reference guides for professional .NET development covering DevOps, arc
 
 * [Logging, Monitoring & Debugging](guide-logging-monitoring-debugging.md)
   - Structured logging, application insights, debugging techniques
+
+* [API Documentation & Versioning](guide-api-documentation-versioning.md)
+  - OpenAPI/Swagger, versioning strategies, documentation tools
+
+### Services & Background Processing
+
+* [Background Services & Task Scheduling](guide-background-services-task-scheduling.md)
+  - Hosted services, Quartz.NET, cron jobs, job queues
+
+### Security & Best Practices
+
+* [Security Best Practices](guide-security-best-practices.md)
+  - Authentication, authorization, encryption, secure coding
 
 ---
 

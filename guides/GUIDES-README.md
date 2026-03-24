@@ -11,11 +11,15 @@ After completing the workbook and mastering fundamentals, these advanced guides 
 ### 1. **Infrastructure & DevOps**
 - [Docker & CI/CD Pipelines](guide-docker-cicd-pipelines.md) — Containerization and automated deployment
 - [Azure Fundamentals](guide-azure-fundamentals.md) — Cloud services and serverless computing
+- [Background Services & Task Scheduling](guide-background-services-task-scheduling.md) — Hosted services and job scheduling
+- [Security Best Practices](guide-security-best-practices.md) — Authentication, authorization, and secure coding
 - [Logging, Monitoring & Debugging](guide-logging-monitoring-debugging.md) — Observability in production
 
 ### 2. **Architecture & Patterns**
 - [Clean Architecture](guide-clean-architecture.md) — Layered design for maintainability
 - [SOLID & Design Patterns](guide-solid-design-patterns.md) — Proven design principles
+- [gRPC in .NET](guide-grpc-dotnet.md) — High-performance RPC framework
+- [SignalR & Real-Time Communication](guide-signalr-realtime.md) — Real-time web applications
 - [Message Queues & Event-Driven Architecture](guide-message-queues-event-driven.md) — Asynchronous systems
 
 ### 3. **Data & Performance**
@@ -27,6 +31,7 @@ After completing the workbook and mastering fundamentals, these advanced guides 
 
 ### 4. **Development Tools**
 - [Git & GitHub Workflow](guide-git-github-workflow.md) — Version control and team collaboration
+- [API Documentation & Versioning](guide-api-documentation-versioning.md) — OpenAPI and API versioning strategies
 
 ---
 
@@ -68,8 +73,13 @@ After completing the workbook and mastering fundamentals, these advanced guides 
 | Caching & Redis         | 2-3 hours | Intermediate | Performance optimization      |
 | BenchmarkDotNet         | 1-2 hours | Intermediate | Performance measurement       |
 | Message Queues          | 3-4 hours | Advanced     | Event-driven systems          |
+| gRPC in .NET            | 2-3 hours | Intermediate | High-performance RPC          |
+| SignalR & Real-Time     | 2-3 hours | Intermediate | Real-time web features        |
 | Logging & Monitoring    | 2-3 hours | Intermediate | Production observability      |
+| Background Services     | 2-3 hours | Intermediate | Scheduled tasks and jobs      |
+| Security Best Practices | 2-3 hours | Intermediate | Application security          |
 | Git & GitHub            | 1-2 hours | Beginner     | Team collaboration            |
+| API Documentation       | 1-2 hours | Beginner     | API design and versioning     |
 
 ---
 

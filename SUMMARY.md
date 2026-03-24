@@ -67,7 +67,9 @@
 ## Book 4: Advanced Guides & References
 
 * [Advanced Guides](guides/)
+  * [API Documentation & Versioning](guides/guide-api-documentation-versioning.md)
   * [Azure Fundamentals](guides/guide-azure-fundamentals.md)
+  * [Background Services & Task Scheduling](guides/guide-background-services-task-scheduling.md)
   * [BenchmarkDotNet & Performance](guides/guide-benchmarkdotnet-performance.md)
   * [Caching & Redis Patterns](guides/guide-caching-redis-patterns.md)
   * [Clean Architecture](guides/guide-clean-architecture.md)
@@ -75,7 +77,10 @@
   * [Database Design & Indexing](guides/guide-database-design-indexing-optimization.md)
   * [Docker & CI/CD Pipelines](guides/guide-docker-cicd-pipelines.md)
   * [Git & GitHub Workflow](guides/guide-git-github-workflow.md)
+  * [gRPC in .NET](guides/guide-grpc-dotnet.md)
   * [Logging, Monitoring & Debugging](guides/guide-logging-monitoring-debugging.md)
   * [Message Queues & Event-Driven Architecture](guides/guide-message-queues-event-driven.md)
+  * [Security Best Practices](guides/guide-security-best-practices.md)
+  * [SignalR & Real-Time Communication](guides/guide-signalr-realtime.md)
   * [SOLID & Design Patterns](guides/guide-solid-design-patterns.md)
   * [SQL Server & T-SQL](guides/guide-sql-server-tsql.md)
